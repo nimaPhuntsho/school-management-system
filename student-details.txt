@@ -1,0 +1,5 @@
+Steven Gerrad,steve@gmail.com,17,45910676,BIT,0.0
+Angel Gomez,angel@gmail.com,34,56661835,MIT,0.0
+Mason Greenwood,maze@yahoo.com,18,34151441,MBA,0.0
+Patrick Chong,pat@gmail.com,25,53715448,BSc Computer,0.0
+Phil Jones,jones@infotech.scu.au,32,34742722,BBA,0.0
