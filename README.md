@@ -1,2 +1,2 @@
 # school-management-system
-This is a simple program for the micro school management.
+This is a simple program for a micro school management.
